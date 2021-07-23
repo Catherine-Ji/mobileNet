@@ -1,0 +1,15 @@
+{
+  "name": "mobilenet_npm",
+  "version": "1.0.0",
+  "description": "npm package for experimenting with mobileNet(ml5)",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ml5",
+    "mobileNet"
+  ],
+  "author": "Catherine Ji",
+  "license": "ISC"
+}
